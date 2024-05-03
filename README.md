@@ -1,5 +1,9 @@
 # Trio-transport-system using OpenGL
 
+Output:
+
+https://github.com/cryptic91/Trio-transport-system/assets/91222781/97c9c5d1-5c42-443e-bea0-87d4dd8f0a84
+
 Stage 3:
 ![scenario-3 Computer Graphics](https://github.com/cryptic91/Trio-transport-system/assets/91222781/44a1227b-9dd3-44a2-b9fc-2f10d67cff82)
 Stage 2:
